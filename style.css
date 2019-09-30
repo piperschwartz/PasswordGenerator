@@ -1,0 +1,79 @@
+body {
+    background-color: #E3E3E3;
+    text-align: center;
+}
+
+#generate {
+    background-color: #B70101;
+    color: white;
+    border: none;
+    border-radius: 18px;
+    padding: 11px;
+    margin: 10px;
+    font-size: 18px;
+    float: left;
+}
+
+#copy {
+    background-color: #C6CED4;
+    color: white;
+    border: none;
+    border-radius: 18px;
+    padding: 11px;
+    margin: 10px;
+    font-size: 18px;
+    float: right;
+}
+
+#password {
+    border: dashed 2px;
+    resize: none;
+    text-align: center;
+    width: 525px;
+    height: 100px;
+    border-color: #D8DBDE;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+
+}
+
+.container {
+    width: 650px;
+    height: 450px;
+    background-color: #F7F7F7;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.content {
+    background-color: white;
+    width: 600px;
+    height: 290px;
+    display: inline-block;
+    box-shadow: 0px 0px 20px #E0E0E1;
+    margin-top: 20px;
+    padding-top: 30px;
+    
+    
+}
+
+hr {
+    width: 527px;
+    border-top: 1px solid #DEE0E2 ;
+    
+
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5A5A5A;
+    font-size: 28px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5A5A5A;
+    text-align: left;
+    padding-left: 35px;
+}
